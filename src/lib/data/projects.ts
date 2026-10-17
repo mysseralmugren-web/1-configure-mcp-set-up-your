@@ -97,7 +97,7 @@ export const FACTORY_PROJECTS: ProjectPortfolio[] = [
     ],
     featured: true,
     relatedServiceSlugs: [
-      "sofas-majlis-upholstery",
+      "sofas-majlis-seating",
       "doors-custom-woodworking",
       "residential-furniture-bedrooms",
       "custom-cabinetry-wardrobes",
@@ -144,7 +144,7 @@ export const FACTORY_PROJECTS: ProjectPortfolio[] = [
     ],
     featured: true,
     relatedServiceSlugs: [
-      "commercial-interior-fitouts",
+      "commercial-interior-fit-outs",
       "executive-offices-meeting-tables",
       "custom-furniture-design-manufacturing",
     ],
@@ -188,7 +188,7 @@ export const FACTORY_PROJECTS: ProjectPortfolio[] = [
     featured: false,
     relatedServiceSlugs: [
       "office-furniture-workstations",
-      "commercial-interior-fitouts",
+      "commercial-interior-fit-outs",
     ],
   },
   {
