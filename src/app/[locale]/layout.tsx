@@ -33,6 +33,7 @@ export default async function LocaleLayout({
       dir={isAr ? "rtl" : "ltr"}
       className={`min-h-screen flex flex-col ${isAr ? "font-arabic" : "font-sans"}`}
     >
+      <FactoryJsonLd locale={validLocale} />
       <Navbar locale={validLocale} />
       <main className="flex-grow">{children}</main>
       <Footer locale={validLocale} />
