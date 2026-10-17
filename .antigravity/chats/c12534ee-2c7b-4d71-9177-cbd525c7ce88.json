@@ -52,6 +52,30 @@
       "created_at": "2026-10-17T11:07:16.981Z",
       "sender": "macOS",
       "is_cancelled": false
+    },
+    {
+      "id": "a5a8efaf-3295-4463-ab9b-22e6d2fb8367",
+      "role": "user",
+      "content": "Your weekly Google allowance for this model is used up.\nIt comes back in about 7 days.\nTwo ways to keep going now:\n- Pick another model in the app — each family has its own allowance, and the picker shows what's left.\n- Get more from Google: https://antigravity.google/g1-upgrade",
+      "status": "pending",
+      "model": "claude-sonnet-4-6",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-10-17T21:10:29.820Z",
+      "sender": "ios",
+      "is_cancelled": false
+    },
+    {
+      "id": "d78d5630-e61a-4312-8d33-7fcfe531bf87",
+      "role": "agent",
+      "content": "You're all set! You've switched to **Claude Sonnet 4.6 (Thinking)** and I'm ready to help. What would you like to work on?",
+      "status": "completed",
+      "model": "claude-sonnet-4-6",
+      "client_type": "gemini-bridge",
+      "parent_message_id": "a5a8efaf-3295-4463-ab9b-22e6d2fb8367",
+      "created_at": "2026-10-17T21:10:36.790Z",
+      "sender": "macOS",
+      "is_cancelled": false
     }
   ]
 }
