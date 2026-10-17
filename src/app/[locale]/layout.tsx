@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { Locale } from "@/types";
 import { Navbar } from "@/components/layout/Navbar";
 import { Footer } from "@/components/layout/Footer";
+import { FactoryJsonLd } from "@/components/seo/JsonLd";
 
 interface LocaleLayoutProps {
   children: React.ReactNode;
